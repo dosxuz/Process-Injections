@@ -1,0 +1,7 @@
+C:\Users\ritab\Project\EarlyBird\EarlyBird\bin\x64\Release\EarlyBird.exe.config
+C:\Users\ritab\Project\EarlyBird\EarlyBird\bin\x64\Release\EarlyBird.exe
+C:\Users\ritab\Project\EarlyBird\EarlyBird\bin\x64\Release\EarlyBird.pdb
+C:\Users\ritab\Project\EarlyBird\EarlyBird\obj\x64\Release\EarlyBird.csproj.AssemblyReference.cache
+C:\Users\ritab\Project\EarlyBird\EarlyBird\obj\x64\Release\EarlyBird.csproj.CoreCompileInputs.cache
+C:\Users\ritab\Project\EarlyBird\EarlyBird\obj\x64\Release\EarlyBird.exe
+C:\Users\ritab\Project\EarlyBird\EarlyBird\obj\x64\Release\EarlyBird.pdb
